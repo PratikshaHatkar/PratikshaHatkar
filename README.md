@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pratiksha Hatkar</h1>
-<p align="center">🚀 Aspiring Full Stack Developer | Computer Engineering Student | DSA Explorer</p>
+<p align="center">🚀 MERN Stack Developement | Computer Engineering Student | DSA | Exploring AIML</p>
 
 ---
 
